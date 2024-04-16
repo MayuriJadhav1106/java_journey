@@ -11,5 +11,6 @@ public class numberInRange{
           System.out.println(counter);
            counter++;
         }
+        
     }
 }
