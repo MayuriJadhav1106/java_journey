@@ -13,6 +13,9 @@ public class basic{
     System.out.println("chem: "+marks[1]);
     System.out.println("math: "+marks[2]);
 
+    marks[2] = 100;
+    System.out.println("math: "+marks[2]);
+
 
     }
 }
